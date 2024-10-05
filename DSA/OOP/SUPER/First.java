@@ -1,6 +1,6 @@
 package DSA.OOP.SUPER;
 
-import oop.Super;
+
 
 public class First {
     public static void main(String[] args) {

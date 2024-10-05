@@ -1,6 +1,6 @@
 package DSA.LinkedList;
 
-import College_work.LinkedLista;
+
 
 public class LinkedListM {
 //    public static class Node{
